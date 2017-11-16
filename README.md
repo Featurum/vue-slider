@@ -16,7 +16,7 @@ npm run dev
 
 # Билд
 npm run build
-
+```
 
 ## Опции
 
