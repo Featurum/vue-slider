@@ -32,7 +32,7 @@ npm run build
 | nextNav     | String        |          | Кнопка веред   |
 | speed       | Number        | 300      | Скорость перелистывания (мс)   |
 | timing      | String        | 'ease'   | Анимация перехода (linear, ease-in, ease-out, ease-in-out)  |
-| offset      | Number        | 1        | оличество смещаемых слайдов   |
+| offset      | Number        | 1        | Количество смещаемых слайдов   |
 | sibling     | Boolean       | false    | Переключение слайдов соседними блоками   |
 | responsive  | Object        | {}       | Отзывчивость   |
 
