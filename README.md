@@ -2,6 +2,8 @@
 
 > Слайдер контента для Vue.js
 
+ - [Демо](https://featurum.github.io/vue-slider/)
+
 ## Установка
 
 ``` bash
